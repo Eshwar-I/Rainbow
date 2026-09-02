@@ -1,2 +1,2 @@
 Hello world from local
-Hello from remote
+Hello world from remote
